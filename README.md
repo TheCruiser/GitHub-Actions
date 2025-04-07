@@ -14,3 +14,12 @@
 - Integration: Jenkins can integrate with a wide range of tools and services, but GitHub Actions is tightly integrated with the GitHub platform, making it easier to automate tasks related to your GitHub workflow.
 
 In conclusion, Jenkins is better suited for complex and large-scale automation tasks, while GitHub Actions is a more cost-effective and user-friendly solution for simple to moderate automation needs.
+
+
+## Setting up a task in .github/workflows
+
+- in folder src > basic.py, I have defined the code.
+- Up next, when I make some changes or commit the codefile, if the code fails, it will come up with below sort of error
+![alt text](./imgs/err_image.png)
+- If it passes successfully, the code comes passed
+![alt text](./imgs/suc_image.png)
