@@ -33,3 +33,9 @@ In conclusion, Jenkins is better suited for complex and large-scale automation t
 Then you'll be able to see similar as below:
 ![alt text](./imgs/gActions.png)
 ![alt text](./imgs/listeningJobs.png)
+
+### Then you need to change the runs-on part as 'self-hosted'
+
+Once you make any changes & commit it >>>
+Voila, you'll see the job getting run in AWS instance (wherever you hosted it) and like below:
+![alt text](./imgs/runSuccess.png)
