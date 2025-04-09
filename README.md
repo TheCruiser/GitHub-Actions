@@ -38,4 +38,7 @@ Then you'll be able to see similar as below:
 
 Once you make any changes & commit it >>>
 Voila, you'll see the job getting run in AWS instance (wherever you hosted it) and like below:
+
 ![alt text](./imgs/runSuccess.png)
+
+## With this, you got your self-hosted server on top of which you can run your CI ✨
