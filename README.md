@@ -26,3 +26,10 @@ In conclusion, Jenkins is better suited for complex and large-scale automation t
 ![alt text](./imgs/err_image.png)
 - If it passes successfully, the code comes passed
 ![alt text](./imgs/suc_image.png)
+
+# To make it a self-hosted runner instead of the github hosted, just need to make the change in 'Settings'
+
+### Settings > Actions > Runners > New Self Hosted Runner > Select the proper scenario and follow/apply the steps
+Then you'll be able to see similar as below:
+![alt text](./imgs/gActions.png)
+![alt text](./imgs/listeningJobs.png)
